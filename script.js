@@ -1,7 +1,3 @@
-
-
-Blame
-43 lines (42 loc) · 1.07 KB
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
